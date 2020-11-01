@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Rachmat Gunawan!
 Currently I am open to any opportunity especially in IT as a Web Developer, Mobile Developer, and Game Developer. 
 
-<img src=”http://rachmatgunawan.com/static/media/sea.b4bfc7c7.JPG”>
+<img src=”http://rachmatgunawan.com/static/media/sea.b4bfc7c7.JPG”/>
 
 ### Stats:
  <summary><strong>What i am learning/working on these days</strong></summary>
