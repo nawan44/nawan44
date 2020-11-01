@@ -1,5 +1,5 @@
-# Hi there 👋 , I'm Bagus!
-Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
+# Hi there 👋 , I'm Rachmat Gunawan!
+Currently I am open to any opportunity especially in IT as a Web Developer, Mobile Developer, and Game Developer. 
 
 
 
@@ -11,5 +11,7 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 
 ### Let's connect!
 <p>
-    <a href="https://www.instagram.com/nawan44" target="blank"><img src="https://img.shields.io/badge/instagram-nawan44-red" /></a>
+ <a href="http://www.rachmatgunawan.com" target="blank"><img src="https://img.shields.io/badge/web-rachmatgunawan-green" /></a> <br/>
+    <a href="https://www.instagram.com/nawan44" target="blank"><img src="https://img.shields.io/badge/instagram-nawan44-red" /></a> <br/>
+ <a href="https://www.linkedin.com/in/rachmat-gun/" target="blank"><img src="https://img.shields.io/badge/linkedin-rachmat--gun-blue" /></a> <br/>
 </p>
