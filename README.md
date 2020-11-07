@@ -20,7 +20,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
 
 ### Let's connect!
 <p>
- ![website](https://i.ibb.co/D95jt5Z/web.png)<br/>
+ ![web](https://i.ibb.co/D95jt5Z/web.png) <br/>
  <a href="http://www.rachmatgunawan.com" target="blank">
   rachmatgunawan.com
  </a> <br/>
