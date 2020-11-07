@@ -20,17 +20,17 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
 
 ### Let's connect!
 
- ![web](https://i.ibb.co/D95jt5Z/web.png) <br/>
+ ![web](https://i.ibb.co/D95jt5Z/web.png)
  <a href="http://www.rachmatgunawan.com" target="blank">
   rachmatgunawan.com
  </a>
 
- ![instagram](https://i.ibb.co/5nwd9Kh/instagram.png)<br/>
+ ![instagram](https://i.ibb.co/5nwd9Kh/instagram.png)
  <a href="https://www.instagram.com/nawan44" target="blank">
  @nawan44
 </a> 
  
-![linkedin](https://i.ibb.co/ZWJcxJ5/linkedin.png) <br/>
+![linkedin](https://i.ibb.co/ZWJcxJ5/linkedin.png)
  <a href="https://www.linkedin.com/in/rachmat-gun/" target="blank">
  @rachmat-gun
 </a> <br/>
