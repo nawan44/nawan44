@@ -19,7 +19,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
 
 
 ### Let's connect!
-<p>
+
  ![web](https://i.ibb.co/D95jt5Z/web.png) <br/>
  <a href="http://www.rachmatgunawan.com" target="blank">
   rachmatgunawan.com
@@ -34,4 +34,4 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
  <a href="https://www.linkedin.com/in/rachmat-gun/" target="blank">
  @rachmat-gun
 </a> <br/>
-</p>
+
