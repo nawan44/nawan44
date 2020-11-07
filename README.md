@@ -9,7 +9,14 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
     - 📫 How to reach me: <a href="rachmat.d.gunawan@gmail.com">Email me!</a>  </br>
 
 ### Skill:
-(https://ibb.co/YLyJtfB)
+![html](https://i.ibb.co/yQYK8gF/html.png)
+![css](https://i.ibb.co/FJ772cw/css.png)
+![js](https://i.ibb.co/PWjzmGw/js.png)
+![csharp](https://i.ibb.co/c19SpgD/csharp.png)
+![android](https://i.ibb.co/87NN8gC/Android-robot.png)
+![unity](https://i.ibb.co/ncyFB8X/unity.png)
+![react](https://i.ibb.co/HnKLSJh/react.png)
+
 
 ### Let's connect!
 <p>
