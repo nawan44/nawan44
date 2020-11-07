@@ -24,7 +24,9 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
  ![web](https://i.ibb.co/D95jt5Z/web.png)
  </a> <br/>
  
-    <a href="https://www.instagram.com/nawan44" target="blank">![instagram](https://i.ibb.co/5nwd9Kh/instagram.png)</a> <br/>
+ <a href="https://www.instagram.com/nawan44" target="blank">
+ ![instagram](https://i.ibb.co/5nwd9Kh/instagram.png)
+</a> <br/>
  
  
  <a href="https://www.linkedin.com/in/rachmat-gun/" target="blank">
