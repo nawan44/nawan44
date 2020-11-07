@@ -8,7 +8,8 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
     - 🔭 I’m currently work as a Frontend Engineer </br>
     - 📫 How to reach me: <a href="rachmat.d.gunawan@gmail.com">Email me!</a>  </br>
 
-<img src=”https://ibb.co/YLyJtfB”>
+### Skill:
+(https://ibb.co/YLyJtfB)
 
 ### Let's connect!
 <p>
