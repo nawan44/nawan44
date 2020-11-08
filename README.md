@@ -15,10 +15,10 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
 ![html](https://i.ibb.co/L5pMJQd/html.png)
 ![css](https://i.ibb.co/W2BmLWh/css.png)
 ![js](https://i.ibb.co/NmRTDfL/js.png)
-![csharp](https://i.ibb.co/WzTvqvt/csharp.png)
-![android](https://i.ibb.co/1Z4Mp2M/Android-robot.png)
-![unity](https://i.ibb.co/yVzPgsD/unity.png)
-![react](https://i.ibb.co/njNG8yr/react.png)
+![csharp](https://i.ibb.co/tD3wVhn/csharp.png)
+![android](https://i.ibb.co/ymTfhfw/Android.png)
+![unity](https://i.ibb.co/yFSWgZN/unity.png)
+![react](https://i.ibb.co/NNKQQ6N/react.png)
 
 
 ### Let's connect!
