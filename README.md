@@ -6,7 +6,10 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
 ### Stats:
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently work as a Frontend Engineer </br>
-    - 📫 How to reach me: <a href="rachmat.d.gunawan@gmail.com">Email me!</a>  </br>
+    - 🌱 I’m currently learning Javascript Family </br>
+    - 💬 Ask me about anything.</br>
+    - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: ... </br> 
 
 ### Skill:
 ![html](https://i.ibb.co/L5pMJQd/html.png)
@@ -20,18 +23,19 @@ Currently I am open to any opportunity especially in IT as a Web Developer, Mobi
 
 ### Let's connect!
 
- ![web](https://i.ibb.co/D95jt5Z/web.png)
+ 
  <a href="http://www.rachmatgunawan.com" target="blank">
-  rachmatgunawan.com
+ ![web](https://i.ibb.co/D95jt5Z/web.png)
+ rachmatgunawan.com
  </a>
 
- ![instagram](https://i.ibb.co/5nwd9Kh/instagram.png)
  <a href="https://www.instagram.com/nawan44" target="blank">
- @nawan44
+ ![instagram](https://i.ibb.co/5nwd9Kh/instagram.png)
+@nawan44
 </a> 
  
-![linkedin](https://i.ibb.co/ZWJcxJ5/linkedin.png)
  <a href="https://www.linkedin.com/in/rachmat-gun/" target="blank">
- @rachmat-gun
+![linkedin](https://i.ibb.co/ZWJcxJ5/linkedin.png)
+@rachmat-gun
 </a> <br/>
 
